@@ -1,7 +1,7 @@
 # 0x00. C - Hello, World
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone,** without the help of Google:**
+At the end of this project, you are expected to be able to explain to anyone,**without the help of Google:**
 ### General
 * Why C programming is awesome
 * Who invented C
@@ -20,8 +20,8 @@ At the end of this project, you are expected to be able to explain to anyone,** 
 ## More Info
 ### Betty linter
 To run the Betty linter just with command betty <filename>:
-* Go to the Betty repository
-* Clone the repo to your local machine
+* Go to the [Betty](https://github.com/alx-tools/Betty) repository
+* Clone the [repo](https://github.com/alx-tools/Betty) to your local machine
 * cd into the Betty directory
 * Install the linter with sudo ./install.sh
 * emacs or vi a new file called betty, and copy the script below
