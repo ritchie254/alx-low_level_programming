@@ -29,4 +29,7 @@ int main(void)
 		}
 	}
 	putchar('\n');
+
+	/* return value */
+	return (0);
 }
