@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   *main - entry point
-  *Return - 0 if succes
+  *Return: 0 if succes
   */
 int main(void)
 {
@@ -20,7 +20,7 @@ int main(void)
 				putchar(a);
 				putchar(b);
 				putchar(c);
-				if (a == '7' && b =='8' && c == '9')
+				if (a == '7' && b == '8' && c == '9')
 				{
 					putchar('\n');
 				}
