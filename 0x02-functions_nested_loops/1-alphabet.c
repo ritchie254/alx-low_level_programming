@@ -10,7 +10,7 @@ void print_alphabet(void)
 	int i;
 
 	/* intializiation of loop to print all lower case alphabets */
-	for (i = 97;i <= 122;i++)
+	for (i = 97; i <= 122; i++)
 	{
 		_putchar(i);
 	}
