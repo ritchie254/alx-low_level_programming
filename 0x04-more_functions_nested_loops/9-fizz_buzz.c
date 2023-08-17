@@ -25,7 +25,7 @@ int main(void)
 		}
 		else if (i % 5 == 0)
 		{
-			printf("%s ",b);
+			printf("%s ", b);
 		}
 		else if (i % 3 == 0)
 		{
