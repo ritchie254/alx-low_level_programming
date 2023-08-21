@@ -17,4 +17,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * How to use strings and how to manipulate them
 * Scope of variables
 
-###HAPPY LEARNING :-)
+### HAPPY LEARNING :-)
