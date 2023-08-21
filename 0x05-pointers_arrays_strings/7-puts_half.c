@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+  *puts_half - returns the last part of a string
+  *@str: string
   */
 
 void puts_half(char *str)
