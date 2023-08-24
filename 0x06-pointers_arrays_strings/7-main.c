@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for
+ *main - entry point 
  *
  * Return: Always 0.
  */
