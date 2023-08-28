@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+  *print_chessboard - prints chessboard
+  *@a: board
   */
 
 void print_chessboard(char (*a)[8])
