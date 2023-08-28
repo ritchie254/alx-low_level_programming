@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  *_strspn - length of prefix
-  *@s: character
-  *@accept: string
-  *Return: number of bytes
+  *_strspn - strspn
+  *@s: string
+  *@accept: accept
+  *Return: integer
   */
 
 unsigned int _strspn(char *s, char *accept)
@@ -13,7 +13,7 @@ unsigned int _strspn(char *s, char *accept)
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
-		for (j = 0; accept[j] != '\0')
+		for (j = 0; accept[j] != '\0'; j++)
 		{
 			if (s[i] == accept[j])
 			{
