@@ -14,8 +14,10 @@ char *_strdup(char *str)
 	int i, j;
 	char *pStr;
 
-	if (*str == '\0')
+	if (str == NULL)
+	{
 		return (NULL);
+	}
 	i = _strlen_recursion(str);
 	pStr = (char *)malloc((i + 1) * sizeof(char));
 	if (pStr == NULL)
