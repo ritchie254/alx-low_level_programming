@@ -2,27 +2,66 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <stdio.h>
-#define MUL(a, b) (a * b)
 
 /**
-  *valid_number - function to check
+  *length - function to check
   *if string contains only numbers
   *@str: constant string
   *
   *Return: 1 if true else 0
   */
-int valid_number(const char *str)
+int length(const char *str)
 {
-	while (*str)
+	int i;
+
+	i = 0;
+	while (*str++)
 	{
-		if (!isdigit(*str))
-		{
-			return (0);
-		}
-		str++;
+		i++;
 	}
-	return (1);
+	return (i);
 }
+
+/**
+  *array - create an array
+  *@size: size of array
+  *
+  *Return: pointer to array
+  */
+
+char *array(int size)
+{
+	char *arr;
+	int index;
+
+	arr = malloc(sizeof(char) * size);
+	if (arr == NULL)
+		exit(98);
+	for (index = 0; index < (size - 1); index++)
+		arr[index] = 'x';
+	arr[index] = '\0';
+	return (arr);
+}
+
+/**
+  *iterate_zeros - checks for characters which have leading zeros
+  *@str: string being checked
+  *
+  *Return: pointer
+  */
+
+char *iterate_zeros(char *str)
+{
+	while (*str && *str == '0')
+		str++;
+	return (str);
+}
+
+/**
+  *
+  */
+
+
 
 /**
   * main - entry point
