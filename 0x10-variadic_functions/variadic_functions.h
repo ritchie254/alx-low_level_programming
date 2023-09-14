@@ -1,6 +1,11 @@
 #ifndef VARIADIC_FUNCTION_H
 #define VARIADIC_FUNCTION_H
 #include <stdarg.h>
+/**
+  * struct format - sructure
+  *@f: character
+  *@func: function
+  */
 typedef struct format
 {
 	char *f;
