@@ -1,5 +1,6 @@
 # 0x00. C - Hello, World
 
+<p align="center">![C pro](https://user-images.githubusercontent.com/91147803/162432166-0f08df51-fadc-4d37-99f8-bc92b797589b.png)</p>
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone,**without the help of Google:**
 ### General
@@ -17,6 +18,27 @@ At the end of this project, you are expected to be able to explain to anyone,**w
 * How to find the right header to include in your source code when using a standard library function
 * How does the main function influence the return value of the program
 
+## Projects
+- <a href="0x00-hello_world/">0x00-hello_world</a>
+- <a href="0x01-variables_if_else_while">0x01-variables_if_else_while</a>
+- <a href="0x02-functions_nested_loops">0x02-functions_nested_loops</a>
+- <a href="0x03-debugging">0x03-debugging</a>
+- <a href="0x04-more_functions_nested_loops">0x04-more_functions_nested_loops</a>
+- <a href="0x05-pointers_arrays_strings">0x05-pointers_arrays_strings</a>
+- <a href="0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a>
+- <a href="0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a>
+- <a href="0x08-recursion">0x08-recursion</a>
+- <a href="0x09-static_libraries">0x09-static_libraries</a>
+<a href=""></a>
+- <a href="0x0A-argc_argv">0x0A-argc_argv</a>
+- <a href="0x0B-malloc_free">0x0B-malloc_free</a>
+- <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
+- <a href="0x0D-preprocessor">0x0D-preprocessor</a>
+- <a href="0x0E-structures_typedef">0x0E-structures_typedef</a>
+- <a href="0x0F-function_pointers">0x0F-function_pointers</a>
+- <a href="0x10-variadic_functions">0x10-variadic_functions</a>
+- <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
+- <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
 ## Requirements
 ## C
 * Allowed editors: vi, vim, emacs
