@@ -1,6 +1,7 @@
 # 0x00. C - Hello, World
 
-<p align="center">![C pro](https://user-images.githubusercontent.com/91147803/162432166-0f08df51-fadc-4d37-99f8-bc92b797589b.png)</p>
+![C pro](https://user-images.githubusercontent.com/91147803/162432166-0f08df51-fadc-4d37-99f8-bc92b797589b.png)
+
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone,**without the help of Google:**
 ### General
