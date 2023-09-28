@@ -40,6 +40,7 @@ At the end of this project, you are expected to be able to explain to anyone,**w
 - <a href="0x10-variadic_functions">0x10-variadic_functions</a>
 - <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
 - <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
+- <a href="0x14-bit_manipulation">0x14-bit_manipulation</a>
 ## Requirements
 ## C
 * Allowed editors: vi, vim, emacs
